@@ -88,19 +88,19 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "Task Tracker - React Application",
-      des: "React task management mini app",
-      img: "/TaskTracker.png",
+      title: "TONScoremaster",
+      des: "A Sports Prediction Game - Telegram based",
+      img: "/TONScoremaster.png",
       iconLists: ["/re.svg", "/js.svg", "/css.svg"],
       link: "https://github.com/SehulAklilu/react-task-tracker",
     },
     {
       id: 4,
-      title: "Amazon Clone - React Application",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/AmazonClone.png",
+      title: "MPI",
+      des: "A Tennis Analytics website for game data collection with user management ",
+      img: "/MPI.png",
       iconLists: ["/re.svg", "/js.svg", "/css.svg"],
-      link: "https://github.com/SehulAklilu/amazon-clone",
+      link: "https://github.com/SehulAklilu/mpi",
     },
   ];
   
