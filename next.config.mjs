@@ -3,7 +3,7 @@ import {withSentryConfig} from '@sentry/nextjs';
 
 const nextConfig = {
     // Enable static export
-  output: 'export',
+  output: 'standalones',
 };
 
 export default withSentryConfig(nextConfig, {
