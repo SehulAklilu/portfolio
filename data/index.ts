@@ -80,11 +80,11 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Expense Tracker - Mini Application",
-      des: "Track your expense with ease",
-      img: "/ExpenseTracker.PNG",
+      title: "SOP-Magic",
+      des: "Create SOPs from audio/video meetings and text",
+      img: "/SOPMagic.PNG",
       iconLists: ["/re.svg", "/js.svg", "/css.svg"],
-      link: "https://github.com/SehulAklilu/expense-tracker-react",
+      link: "https://sop-magic.com/",
     },
     {
       id: 3,
